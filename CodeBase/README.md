@@ -2,13 +2,14 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
-  <img src="https://img.shields.io/badge/Platform-Arduino-orange" alt="Platform: Arduino | STM32">
-  <img src="https://img.shields.io/badge/Language-C%2B%2B-blue" alt="Language: C++">
+  <img src="https://img.shields.io/badge/Platform-Arduino-orange" alt="Platform: Arduino">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B%20|%20Python-blue" alt="Language: C++ | Python">
 </div>
 
 ## 📁 Software Architecture
 
-The software for the Micromouse project is designed with modularity in mind, separating core control functions from maze-solving algorithms.
+The software for Cable Driven Parallel Manipulator will be mainly focused on the Inverse Kinematics that is the calculation for the lengths of cables for different positions of end effector.<br><br>
+The Inverse Kinematics will be coded in python and the motor controls will be coded in C++(Arduino IDE).<br> 
 
 
 

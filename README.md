@@ -5,65 +5,32 @@
   <img src="https://img.shields.io/badge/Team-Robotics%20Club-blue" alt="Team: Robotics Club">
   <img src="https://img.shields.io/badge/Platform-Arduino-orange" alt="Platform: Arduino">
   <div align="center">
-    <img src="./photos/foto_1.png" width="600" alt="Project Image">
+    <img src="./photos/CDPM.jpg" width="600" alt="Project Image">
     <br>
-    </h1>Add project specific image on ./photos/foto_1.png</h1> 
   </div>
 </div>
 
 ## 🤖 Project Overview
 
-This repository houses the codebase for the **!TODO(project name)**. It serves as a comprehensive collection of resources including code, CAD models, calculations, and component datasheets. Our aim is to create a well-documented reference that will enable future teams to build upon our work.
+This repository houses the codebase for the Cable Driven Parallel Manipulator. It serves as a comprehensive collection of resources including research, calculations, code, CAD models, and component datasheets. Our aim is to create a well-documented reference that will enable future teams to build upon our work.
 
 ### 🎯 Design Goals
-!ToDo
-
-some sample
-- ✅ Compact design (within 100×100mm)
-- ✅ Efficient corner turning capability
-- ✅ Fast maze-solving algorithm
-- ✅ Differential drive with high-speed motors
+- ✅ Robust Design(Stability while operating)
+- ✅ Stable Gripper for gripping objects
+- ✅ Precise Inverse Kinematic calculations
+- ✅ Fast operation
 
 
 ## 🧠 Algorithm Development
-!ToDo()
-
-## ⏱️ Project Timeline
-Main idea is to build a very very basic version first, probably within 2 weeks and then work on modifying it, (believer me doing otherwise is stupidity...)
-
-### Week 1: Introduction
-- Review the competition rulebook
--  Be familiar with github
--  Brainstorm ideas and design concepts based in the video,
--  Prepare Bill of Materials
--  Draft electronic system diagram
--  !TODO()
-
-
-### Week 2: Hardware Assembly
--  Assemble mechanical components
-- !TODO()
-
-### Week 3: Debugging
--  Hardware and software troubleshooting
--  !TODO()
-
-### Week 4: Algorithm Refinement
--  Enhance hardware robustness
--  !TODO()
-
-### Weeks 5-7: Progressive Enhancements
-- 🔄 Implement iterative improvements (tbd)
-- !TODO()
+The Inverse Kinematics depends on the final configuration of cables, number of motors used and the mechanism used. Algorithms for Inverse Kinematics will be a novelty for this project.
 
 ## 📚 Resources
 
 ### Tools and References (tbd)
-- !TODO()
 
 ### Development Software
-- !TODO()
-
+- Python
+- Arduino IDE
 
 
 ## 🤝 Contributor Notes
