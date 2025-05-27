@@ -3,16 +3,13 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Status-In%20Development-yellow" alt="Status: In Development">
   <img src="https://img.shields.io/badge/Team-Robotics%20Club-blue" alt="Team: Robotics Club">
-  <img src="https://img.shields.io/badge/Dimensions-60×100mm-green" alt="Dimensions: 60×100mm">
+  <img src="https://img.shields.io/badge/Dimensions-600x600mm-green" alt="Dimensions: 600x600mm">
 </div>
 
 ## 🔧 Hardware Specifications
 
-- **Dimensions**: !TODO()
-- **Drive System**: Differential drive 
-- **Sensors**:
-  - !TODO()
-- **Power**: 3.7V LiPo battery
+- **Dimensions**: 600x600x600mm 
+- **Sensors**: Rotary Encoders
 
 ### Adding New CAD Files
 
@@ -23,17 +20,14 @@ When adding new design files, please follow these guidelines:
 4. For 3D printable files, include recommended print settings
 
 ## 🔌 Electronics Design
-!TODO()
 
 ### Base Configuration
-- **Microcontroller**: !TODO()
-- **Motor Driver**: !TODO()
-- **Sensor Interface**: !TODO()
+- **Microcontroller**: Arduino UNO
+- **Motor Driver**: Stepper Driver
 
 
 ## 📋 Bill of Materials
-!TODO()
-[Link to detailed BOM spreadsheet]
+
 
 ---
 

@@ -1,0 +1,6 @@
+Until 27-05-25:
+- Conducted extensive research on multiple comfigurations and modes for parallel manipulators
+- Finalised Dynamic mode for the parallel manipulator
+- Made two versions of CAD: 1 for tetrahedron and 1 with 4 motors at top of a cube
+- Began fabrication of outer frame
+ 
